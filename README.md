@@ -31,8 +31,8 @@ flott
 
  ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    Zaher-->Mie;
+    Mie-->Jeppe;
+    Jeppe-->Martin;
+    Busenur-->Stein;
 ```
