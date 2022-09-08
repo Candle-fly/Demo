@@ -12,7 +12,7 @@ flott
 
 | Name     | URL |
 | ---      | ---       |
-| Zaher Mordini | https://github.com/Candle-fly |
+| Zaher Mordini | Candle-fly |
 
 
 | Mie Maxine M Nord | Busenur Yilmaz  | Jeppe Stenstadvolden Strømberg | Martin Ore Hovland | Zaher Mordini | Stein Arild V.Danielsen |
