@@ -6,8 +6,9 @@ Beyond the doors of the dark you will find,
 
 A thousands of hideous strange faces 
 
-Surrounding a mascot knight--
-flott
+Surrounding a mascot knight
+
+
 
 
 | Name     | URL |
@@ -24,6 +25,8 @@ flott
 | Busenur Yilmaz | https://github.com/buseliiik |
 | Stein Arild V.Danielsen | https://github.com/SteinArildN |
 
+
+Great job!
 
  ```mermaid
 graph TD;
